@@ -27,7 +27,7 @@ url: "https://meowval.github.io" # the base hostname & protocol for your site, e
 
 google_analytics:
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
