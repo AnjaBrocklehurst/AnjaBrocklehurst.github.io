@@ -28,7 +28,7 @@ url: "https://meowval.github.io" # the base hostname & protocol for your site, e
 github_username:  meowval
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 
