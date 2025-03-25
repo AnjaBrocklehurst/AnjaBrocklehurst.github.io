@@ -29,11 +29,9 @@ github_username:  meowval
 show_downloads: false
 google_analytics:
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 
 
