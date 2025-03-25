@@ -29,7 +29,7 @@ github_username:  meowval
 show_downloads: false
 google_analytics:
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-include-cache
