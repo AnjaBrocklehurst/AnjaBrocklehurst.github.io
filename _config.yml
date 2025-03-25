@@ -33,7 +33,6 @@ theme: pages-themes/slate@v0.2.0
 remote_theme:
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
 
 
 
