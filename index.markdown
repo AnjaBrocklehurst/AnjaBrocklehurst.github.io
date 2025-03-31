@@ -22,7 +22,7 @@ Now, according to this low-quality source [San Francisco Metro Area Population 1
 
 Another observation is that vehicle theft does not decrease down to zero that might indicate that there are some cars that are either a. not locked properly or b. worth the effort for organized vehicle theft. Given that in scenario a the perpetrators are equally spread around the city (an unlocked vehicle is not more likely to be stolen by organized crime than pedestrians), one would assume that improper locking of cars are not prone to an unequal spread of vehicle thefts throughout the city of SF, but the second reason could.
 
-<embed type="text/html" src="assets/InteractiveGraphs/folium_map.html" width="800" height="500"></embed>
+<embed type="text/html" src="assets/InteractiveGraphs/folium_map.html" width="800" height="500">
 [folium_map.html](assets/InteractiveGraphs/folium_map.html)
 The graph shows the distribution and evolution of vehicle theft in San Francisco from 2003 to 2025.
 The different districts are colored based on whether the average vehicle theft is higher or lower than the average vehicle theft in the city.
