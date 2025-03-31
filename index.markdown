@@ -24,6 +24,7 @@ Another observation is that vehicle theft does not decrease down to zero that mi
 
 <embed type="text/html" src="assets/InteractiveGraphs/folium_map.html" width="800" height="500">
 [folium_map.html](assets/InteractiveGraphs/folium_map.html)
+
 The graph shows the distribution and evolution of vehicle theft in San Francisco from 2003 to 2025.
 The different districts are colored based on whether the average vehicle theft is higher or lower than the average vehicle theft in the city.
 
