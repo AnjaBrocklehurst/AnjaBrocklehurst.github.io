@@ -3,7 +3,7 @@ Crime data from 2003 to 2025 in San Francisco has been made publicly available. 
 
 When we look at the nr of occurrence of vehicle theft in San Francisco from 2003 to 2025 it is clear that the incidents of stolen vehicles have been reduced. 
 
-
+![Vehicle Theft by Year graph](assets/images/VTbYg.png)
 
 **Key Events Related to Vehicle Theft Reduction:**  
 The graph is showing the different recorded initiatives of San Francisco to reduce the number of vehicle thefts.
