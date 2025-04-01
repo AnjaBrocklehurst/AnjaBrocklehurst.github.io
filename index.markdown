@@ -40,3 +40,5 @@ From the interactive graph above, it's clear that thefts are least common betwee
 
 ## Is there some way of forecasting vehicle theft?
 Unless there is some good corrolation is found between a variable and vehicle theft, it is not plausible to think a forecast is viable. Since no corrolations were found (sometimes due to lack of quality data) on the usual variables associated with increased crime (nr of vehicles, population, economic inequality, income, drug addiction etc).
+
+#{% include_relative Chapters/1. Introduction.markdown %}
