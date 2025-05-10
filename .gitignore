@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 assets/code/merged_data.csv
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/AnjaBrocklehurst.github.io.iml
