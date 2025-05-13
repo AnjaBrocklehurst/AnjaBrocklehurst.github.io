@@ -60,13 +60,9 @@ In 2024 the commitments to SBTi grew by 81% in comparison to 2023, 867 of which 
 [Expired targets refers to](https://sciencebasedtargets.org/blog/commitment-compliance-policy-what-you-need-to-know) an expired commitment time frame and means that a company needs to commit to new targets. Retracted or withdrawn targets on the other hand refers to a target that either has been withdrawn by the company due to insufficient follow up to their commitments or, simply that the company has decided they will not follow their targets. Currently, 0,32 % of companies have retracted their targets.
 
 Graphs:
-<img src="../assets/images/cumulative_commitments_plot.png" alt="cumulative_commitments_plot.png" style="float: left;">
-
-
-![cumulative_commitments_plot.png](../assets/images/cumulative_commitments_plot.png)
+<img src="../assets/images/cumulative_commitments_plot.png" alt="cumulative_commitments_plot.png" style="float: left;" width="500">
 * SBTi cumulative commitments by year
-* <img src="../assets/images/validation_distribution_plot.png" alt="validation_distribution_plot.png" style="float: left;">
-![validation_distribution_plot.png](../assets/images/validation_distribution_plot.png)
+<img src="../assets/images/validation_distribution_plot.png" alt="validation_distribution_plot.png" style="float: left;" width="500">
 * SBTi Validation Distribution by Company Type
 
 The popularity of SBTi has grown at an astounding rate, from 58 in 2019 to over 10 thousand in 2025. Initially, this growth was solely due to corporations but since 2020 small and medium enterprises (SME) gained ground and became equally engaged in number of commitments. Although financial institutions are not overly represented among the companies in the data their participation is important, and according to SBTi, [the key to unlocking the system-wide change needed to reach a net-zero global economy](https://sciencebasedtargets.org/sectors/financial-institutions). Through financial institution's commitments they will have to reduce the emissions of their portfolios, meaning that their lending, investments and other capital market activities, will be consistent with the Paris agreement.
