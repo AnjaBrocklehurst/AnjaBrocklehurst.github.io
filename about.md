@@ -9,7 +9,7 @@ main_nav: true
 
 
 Not everything made it into the main story — but that doesn’t mean it wasn’t interesting.
-This page includes additional plots and analyses that didn’t quite fit the narrative flow but still give valuable insight into the SBTi dataset.
+This page includes additional plots that didn’t quite fit the narrative flow but still give valuable insight into the SBTi dataset.
 Think of it as the bonus content: more context, side questions, and a few curiosities we thought were worth sharing.  
 
 
