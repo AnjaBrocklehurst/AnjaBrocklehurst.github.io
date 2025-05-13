@@ -37,10 +37,6 @@ Think of it as the bonus content: more context, side questions, and a few curios
 &nbsp;&nbsp;&nbsp;&nbsp;
     
   
-![RetractedSectors.png](../assets/images/AdditionalPlots/RetractedSectors.png)  
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-  
    
 ![RetractedPies.png](../assets/images/AdditionalPlots/RetractedPies.png)   
 &nbsp;&nbsp;&nbsp;&nbsp;
