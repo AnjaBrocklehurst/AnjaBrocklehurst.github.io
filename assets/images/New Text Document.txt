@@ -93,3 +93,4 @@ Anja Brocklehurst - Made the data cleaning, visual identidy, graphs regarding th
 Gudrun Gudmundsdottir - Made the storyline and investigation, graphs regarding the popularity of the SBTi and key statistical data dashboard for SBTi & Denmark
 Marc Hansen - Made graphs related to the comparison of Denmark, Europe and global, created to website and made the content visual on the website.
 
+------------ code below 

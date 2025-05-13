@@ -13,4 +13,4 @@ This page includes additional plots and analyses that didn’t quite fit the nar
 Think of it as the bonus content: more context, side questions, and a few curiosities we thought were worth sharing.
 
 
-![prognosis_plot.png](../assets/images/prognosis_plot.png)
+![TopDkSectors.png](../assets/images/AdditionalPlots/TopDkSectors.png)
