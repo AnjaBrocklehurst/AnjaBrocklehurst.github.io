@@ -14,3 +14,6 @@ Think of it as the bonus content: more context, side questions, and a few curios
 
 
 ![TopDkSectors.png](../assets/images/AdditionalPlots/TopDkSectors.png)
+![HeatmapSectorsDK.png](../assets/images/AdditionalPlots/HeatmapSectorsDK.png)
+![KDEplot.png](../assets/images/AdditionalPlots/KDEplot.png)
+
