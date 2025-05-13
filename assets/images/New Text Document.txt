@@ -1,6 +1,6 @@
 Would it work to just use this as a notebook?
 
-This document is the notebook for the website on Science-Based Targets and is a part of the final assigment for Course 02806 "Social data analysis and visualization" taught in DTU in spring 2025.
+This document is the notebook for the website on Science-Based Targets (https://anjabrocklehurst.github.io/) and is a part of the final assigment for Course 02806 "Social data analysis and visualization" taught in DTU in spring 2025.
 Students are Anja Brocklehurst, Gudrun Gudmundsdottir & Marc Hansen.
 
 Content
@@ -23,18 +23,16 @@ B. By Targets - is a collection of targets and the details thereof (in March 202
 We wanted to find out what the data had to offer and then show, both the positive trajectory and a few companies that had stumbeled.
 Additionally, we want to make it clear how Denmark is doing relative to global and european countries and whether or not the danish government is going to meet their targets.
 
-
-2. Bastic stats
+2. Basic stats
 
 First we reduced the number of columns to data that could be presented visually, cleaning duplicates and unifying how things were spelled in the data.
 The biggest simplification that we did for the data was to group the company sectors. This regrouping was deemd necessary to keep the communication simple.
 Due to the timing of the extraction of data being in March 2025 we chose to only look at commitments that were made until end of year 2024.
-
-
+Do you want to add anything @Anja?
 
 3. Data analysis
 
-To be able to do a prognosis of the Danish commitments... @Anja
+To be able to do a prognosis of the Danish commitments... @Anja?
 We also read into sources that were supportive of the information we had from out data, finding two specially relevant sources:
 A. [Committment ot the science based targets initiative (SBTi) in Denmark](https://static1.squarespace.com/static/5c8265907d0c91092007f8cf/t/65522a4eaed01f0ac05bd6cd/1699883605436/Rapport+SBTi.pdf)
 B. [Danish Climate program on 2024](https://klimaraadet.dk/sites/default/files/node/field_files/Denmark%E2%80%99s%202035%20Climate%20Target%20.pdf)
@@ -58,13 +56,14 @@ There are some repetition of discussion to make it easier for the reader to comp
 
 5. Visualizations
 
-We chose to go for a visual identidy for a clean look, with a fixed pallette and fonts.
+We chose to go for a visual identidy for a clean look, with a fixed pallette and fonts. The key statistical dashboard gives a clean, clear highlight of data, the subject of the website and visuals.
 The line graphs, bar graphs and pie charts were the most clear visualisation and were deemd most suitable to highlight the message.
+@Marc explain the website visuals
 
 6. Discussion
 
-We are happy about the story we managed to tell and the visual identidy we implemented.
-We were struggling to find graphs that could reflect what we had learnt because they seemd redundant and overcomplicating the message.
+We are happy about the story we managed to tell, the references we found and the supporting data. Additionally, the visual identidy we implemented is sharp with clean, clear graphs.
+We were struggling to find graphs that could reflect what we had learnt because they seemd redundant and overcomplicating the message. Another thing we would have wanted to implement was to connect the online data via API and give the user a live dashboard to play around with, and making the information on the website continously updated and relevant.
 
 7. Contributions
 
