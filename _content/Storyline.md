@@ -60,8 +60,12 @@ In 2024 the commitments to SBTi grew by 81% in comparison to 2023, 867 of which 
 [Expired targets refers to](https://sciencebasedtargets.org/blog/commitment-compliance-policy-what-you-need-to-know) an expired commitment time frame and means that a company needs to commit to new targets. Retracted or withdrawn targets on the other hand refers to a target that either has been withdrawn by the company due to insufficient follow up to their commitments or, simply that the company has decided they will not follow their targets. Currently, 0,32 % of companies have retracted their targets.
 
 Graphs:
+<img src="../assets/images/cumulative_commitments_plot.png" alt="cumulative_commitments_plot.png" style="float: left;">
+
+
 ![cumulative_commitments_plot.png](../assets/images/cumulative_commitments_plot.png)
 * SBTi cumulative commitments by year
+* <img src="../assets/images/validation_distribution_plot.png" alt="validation_distribution_plot.png" style="float: left;">
 ![validation_distribution_plot.png](../assets/images/validation_distribution_plot.png)
 * SBTi Validation Distribution by Company Type
 
