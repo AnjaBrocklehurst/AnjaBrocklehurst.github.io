@@ -25,17 +25,36 @@ Additionally, we want to make it clear how Denmark is doing relative to global a
 
 2. Basic stats
 
-First we reduced the number of columns to data that could be presented visually, cleaning duplicates and unifying how things were spelled in the data.
-The biggest simplification that we did for the data was to group the company sectors. This regrouping was deemd necessary to keep the communication simple.
-Due to the timing of the extraction of data being in March 2025 we chose to only look at commitments that were made until end of year 2024.
-Do you want to add anything @Anja?
+Cleaning and processing of the two datasets consisted of filtering and eliminating unnecesary information and coloumns. This included removing duplicates, handling missing values, unifying spelling and formatting. 
+The biggest simplification that we did for the data was to group the company sectors. This regrouping was deemed necessary to simplify visuals and keep the communication simple, without losing key information.
+Due to the timing of the extraction of data being in March 2025 we limited our analysis to commitments made up to the end of 2024 to avoid incomplete reporting. In the end, the “By Companies” dataset included over 10,888 rows, and the “By Targets” dataset close to 6,882.
+To get a feel for the data, we looked at things like:
+- Number of companies committing per year (globally and in Denmark)
+- Distribution of companies by sector
+- Breakdown of target types and statuses (committed, approved, removed)
+This helped ud to get a broader understanding of the datasets and prepared for the data analysis.
 
 3. Data analysis
+Before diving into deeper analysis, we started with basic exploratory data analysis. After the data cleaning and processing, making the data more readable. 
+From those, we formulated hypotheses about trends in SBTi commitments, especially in Denmark, and created initial plots to explore patterns. These insights helped guide our choice of vizualisations 
+and the use of more advanced exploratory data tools such polynomial regression.
 
-To be able to do a prognosis of the Danish commitments... @Anja?
+As it was interesting not only to see the current status on the Danish companies signing up, we wanted to explore and create a prognosis on how it will look like.
+To be able to do a prognosis of the Danish commitments, we looked at how the number of Danish companies joining the initiative has developed over time.
+We used polynomial regression instead of linear regression for this part of the analysis. This choice was made after exploring the actual shape of the data — the number of Danish companies committing to 
+SBTi targets did not follow a straight line, but rather showed signs of acceleration and possibly slowing growth in recent years. We tested both linear and polynomial models and ultimately chose a 
+second-degree polynomial regression, as it gave a strong fit without becoming too speculative. Using this model, we projected how many new Danish companies are likely to commit in the coming years if the trend continues. 
+The model also gave us a way to estimate how many might withdraw or have their targets "removed" (as SBTi calls it).
+Interesting with the dataset is that it clearly shows how the initiative has gained momentum in Denmark, especially in recent years. It highlights how more companies are stepping up, 
+but also raises the question of whether that pace will continue — and if it's enough to meet the bigger climate goals.
+
 We also read into sources that were supportive of the information we had from out data, finding two specially relevant sources:
 A. [Committment ot the science based targets initiative (SBTi) in Denmark](https://static1.squarespace.com/static/5c8265907d0c91092007f8cf/t/65522a4eaed01f0ac05bd6cd/1699883605436/Rapport+SBTi.pdf)
 B. [Danish Climate program on 2024](https://klimaraadet.dk/sites/default/files/node/field_files/Denmark%E2%80%99s%202035%20Climate%20Target%20.pdf)
+
+What we learned from the dataset is that the Science-Based Targets initiative isn’t just a reporting tool — it also creates transparency around corporate climate efforts.
+The data gave us insight into companies’ target ambitions, but it had some key limitations. Most notably, it lacked baseline emissions and progress updates, making it difficult to estimate actual emission reductions by the target year.
+In general, the dataset would benefit from more consistent and detailed timestamps to allow for clearer and more precise analysis.
 
 4. Genre
 
