@@ -13,13 +13,29 @@ This page includes additional plots and analyses that didn’t quite fit the nar
 Think of it as the bonus content: more context, side questions, and a few curiosities we thought were worth sharing.
 
 
-![TopDkSectors.png](../assets/images/AdditionalPlots/TopDkSectors.png)
-![HeatmapSectorsDK.png](../assets/images/AdditionalPlots/HeatmapSectorsDK.png)
-![KDEplot.png](../assets/images/AdditionalPlots/KDEplot.png)
-![RetractedSectors.png](../assets/images/AdditionalPlots/RetractedSectors.png)
-![RetractedPies.png](../assets/images/AdditionalPlots/RetractedPies.png)
-![Hori_lollipop.png](../assets/images/AdditionalPlots/Hori_lollipop.png)
-![LollipopRetracted.png](../assets/images/AdditionalPlots/LollipopRetracted.png)
+![TopDkSectors.png](../assets/images/AdditionalPlots/TopDkSectors.png)   
+
+   
+![HeatmapSectorsDK.png](../assets/images/AdditionalPlots/HeatmapSectorsDK.png)   
+
+  
+![KDEplot.png](../assets/images/AdditionalPlots/KDEplot.png)   
+
+
+  
+![RetractedSectors.png](../assets/images/AdditionalPlots/RetractedSectors.png)  
+
+  
+   
+![RetractedPies.png](../assets/images/AdditionalPlots/RetractedPies.png)   
+
+   
+![Hori_lollipop.png](../assets/images/AdditionalPlots/Hori_lollipop.png)   
+
+  
+![LollipopRetracted.png](../assets/images/AdditionalPlots/LollipopRetracted.png)   
+
+
 
 
 
