@@ -33,7 +33,11 @@ Think of it as the bonus content: more context, side questions, and a few curios
 ![Hori_lollipop.png](../assets/images/AdditionalPlots/Hori_lollipop.png)   
 
   
-![LollipopRetracted.png](../assets/images/AdditionalPlots/LollipopRetracted.png)   
+![LollipopRetracted.png](../assets/images/AdditionalPlots/LollipopRetracted.png)     
+
+ 
+
+![TotalCompprSBTicomp.png](../assets/images/AdditionalPlots/TotalCompprSBTicomp.png)   
 
 
 
