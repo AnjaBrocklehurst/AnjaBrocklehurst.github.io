@@ -45,6 +45,9 @@ In the next few chapters this data is analyzed in terms of growth and popularity
 The SBTi started helping companies committing to emissions reduction targets in 2015, starting with a Belgian company called Thalys.
 
 Key statistics dashboard
+![key_dashboard.png](../assets/images/key_dashboard_horisontal.png)
+<img src="../assets/images/key_dashboard_1.png" alt="Image 1" width="300">
+<img src="../assets/images/key_dashboard_2.png" alt="Image 2" width="300">
 1. Total companies with SBTi targets validated by the SBTi by the end of 2024
 2. Increase in the number of companies with SBTi targets by the end of 2024 compared to 2023
 3. Nr of companies set SBTi targets for the first time in 2024
@@ -147,5 +150,17 @@ Net zero emissions are described in detail by several sources, SBTi being one of
 
 
 # References
-Science based target initiative. 2025. About us.
-The Danish Climate program on 2023
+1. Bernoville, Tara. 2023. What is the difference between carbon-neutral, net-zero and climate positive?. Plan A. Gathered in April 2025 from: https://plana.earth/academy/what-is-difference-between-carbon-neutral-net-zero-climate-positive
+2. Clever. 2025. Clevers arbejde med bæredygtighed. Gathered in May 2025 from: https://clever.dk/vaerd-at-vide/clevers-baeredygtighedsarbejde
+3. E. Segel and J. Heer, "Narrative Visualization: Telling Stories with Data," in IEEE Transactions on Visualization and Computer Graphics, vol. 16, no. 6, pp. 1139-1148, Nov.-Dec. 2010, doi: 10.1109/TVCG.2010.179
+4. Galvin, Dexter. 2018. Six business benefits of setting science-based targets. Science based targets initiative. Gathered in April 2025 from: https://sciencebasedtargets.org/blog/six-business-benefits-of-setting-science-based-targets
+5. Greenhouse gas protocol. 2025. Home: We set the standards to measure and manage emissions. Gathered in May 2025 from: https://ghgprotocol.org/
+6. Klima-, Energi- og Forsyningsministeriet. 2024. Klimaprogram 2024. Gathered in April 2025 from: https://www.kefm.dk/Media/638632332369380008/Klimaprogram%202024%20-%20Digital.pdf
+7. Peter Mollgaard, Jette Bredahl Jacobsen, Niels Buus Kristensen, Jorgen Elmeskov, Bente Halkier, Per Heiselberg, Marie Trydeman Knudsen, Poul Erik Morthorst & Katherine Richardson. 2022. Denmark's Climate Targets. Danish Council on Climate Change. Gathered in April 2025 from: https://klimaraadet.dk/sites/default/files/node/field_files/Denmarks%20Climate%20Targets%20-%20English%20policy%20brief.pdf
+8. Røge, L. R., Riis, A. M., Vindbjerg, M. & Christensen J. M. 2023. Commitment to the Science-based Targets Initiative (SBTi) in Denmark: A prograss report in the lead-up to COP28. Gathered in May 2025 from: https://static1.squarespace.com/static/5c8265907d0c91092007f8cf/t/65522a4eaed01f0ac05bd6cd/1699883605436/Rapport+SBTi.pdf
+9. SBTi services. 2025. Target Validation Services. Gathered in April 2025 from: https://sbtiservices.com/services/corporates_fi
+10. Science based targets initiative. 2025. Financial Institutions. Gathered in April 2025 from: https://sciencebasedtargets.org/sectors/financial-institutions
+11. Science based targets initiative. 2025. Home: Ambitious corporate climate action. Gathered in April 2025 from: https://sciencebasedtargets.org/
+12. Science based targets initiative. 2022. Commitment Compliance Policy - what you need to know. Gathered in April 2025 from: https://sciencebasedtargets.org/blog/commitment-compliance-policy-what-you-need-to-know
+13. The Danish Council on Climate Change. 2024. Denmark's 2035 Climate Target: 10 questions and answers regarding a forthcoming 2035 Climate Target. Gathered in May 2025 from: https://klimaraadet.dk/sites/default/files/node/field_files/Denmark%E2%80%99s%202035%20Climate%20Target%20.pdf
+
