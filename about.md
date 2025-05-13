@@ -52,6 +52,7 @@ Think of it as the bonus content: more context, side questions, and a few curios
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 <embed type="text/html" src="../assets/images/AdditionalPlots/DK_Pieplots.html" style="display: block; margin: auto; width: 100%; max-width: 660px; height: 500px;">
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 # Extra Data on SBTi in Denmark vs Europe vs Global  {#chapter-2} 
 &nbsp;&nbsp;&nbsp;&nbsp;
