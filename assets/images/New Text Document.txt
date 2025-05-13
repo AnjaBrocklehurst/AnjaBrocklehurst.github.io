@@ -15,12 +15,13 @@ Content
 
 1. Motivation
 
-The motivation behind the choice of subject is an interest into corporate sustainability and to investigate the work corporations do for future generations, with a special focus on Denmark.
+The motivation behind the choice of subject is an interest into corporate sustainability and to investigate the ambitions corporations have for future generations, with a special focus on Denmark.
 The SBTi collects information about company's targets and making them available on their [website](https://sciencebasedtargets.org/) for transparency. The data used for this analysis has been collected from the SBTi website and is available in two formats:
 A. By Companies - represents the commitments made on a company basis (in March 2025: 1.6 MB, 10890 rows with 10 columns)
 B. By Targets - is a collection of targets and the details thereof (in March 2025: 2.9 MB, 17169 rows with 7 columns)
+
 We wanted to find out what the data had to offer and then show, both the positive trajectory and a few companies that had stumbeled.
-Finally, we want to make it clear how Denmark is doing relative to global and european countries and whether or not the danish government is going to meet their targets.
+Additionally, we want to make it clear how Denmark is doing relative to global and european countries and whether or not the danish government is going to meet their targets.
 
 
 2. Bastic stats
@@ -40,16 +41,29 @@ B. [Danish Climate program on 2024](https://klimaraadet.dk/sites/default/files/n
 
 4. Genre
 
+To describe the genre of the website we use figure 7 from [Segel, E. and Heer, J.](https://ieeexplore.ieee.org/abstract/document/5613452) as a supportive tool for the visual and narrative definitions.
+The genre of the website was described in the project description which was set out to be in a magazine style.
+Out of the visual narratives mentioned in the figure we used a few things from all three categories. 
+Meaning that we begin with an overview of the key data that gives the audience a feeling for the data as well as introducing the points that we want to highlight for the story. 
+When the story gets more detailed, we use close-ups and feature distinctions to highlight the points we want to make. 
+Throughout the graphs we made sure that the graphs were visually consistent but also that graphs intended to be compared, were made in the same way (familiar objects) to make the data easier to read.
+
+The narrative structure chosen was a user direct path where story directs the user through the graphs allowing for some details through hovering, but otherwise there is a limited interactivity in the graphs. 
+This method was chosen to support the story and keep the message simple and limit confusion.
+The user is confronted with an executive summary that helps the user to know what they are about to read but also gives the highlights of the website.
+Thereafter, there is a focus on the context and motivation behind the data analysis, introducting the subject only when the problem that it is solving has been described.
+We focused on using accompanying articles that were specific, and based on official, governmental and trusted sources.
+There are some repetition of discussion to make it easier for the reader to compare, and some repetitions made in the executive summary to highlight the most interesting findings.
 
 
 5. Visualizations
 
-We chose to go for a visual identidy for a clean look.
-The line graphs, bar graphs and pie charts were the most clear visualisation 
+We chose to go for a visual identidy for a clean look, with a fixed pallette and fonts.
+The line graphs, bar graphs and pie charts were the most clear visualisation and were deemd most suitable to highlight the message.
 
 6. Discussion
 
-We are happy about the story we managed to tell.
+We are happy about the story we managed to tell and the visual identidy we implemented.
 We were struggling to find graphs that could reflect what we had learnt because they seemd redundant and overcomplicating the message.
 
 7. Contributions
