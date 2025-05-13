@@ -39,6 +39,9 @@ Before diving into deeper analysis, we started with basic exploratory data analy
 From those, we formulated hypotheses about trends in SBTi commitments, especially in Denmark, and created initial plots to explore patterns. These insights helped guide our choice of vizualisations 
 and the use of more advanced exploratory data tools such polynomial regression.
 
+We wanted to know how the Danish companies were doing in comparison to European and Global averages, which supported the birth of the chapter where these different regions were compared.
+The amount of companies in Denmark is sourced from [Danmarks Statisktik](https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=48768). The amount of European companies are gathered from three source: 1. [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Business_demography_statistics), 2. [Statista](https://www.statista.com/topics/10032/companies-in-russia/#topicOverview) and 3. [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/statistics/business-population-estimates-2022/business-population-estimates-for-the-uk-and-regions-2022-statistical-release-html). Finally, the data for the amount of companies globally is gathered from [Demandsage](https://www.demandsage.com/business-statistics/).
+
 As it was interesting not only to see the current status on the Danish companies signing up, we wanted to explore and create a prognosis on how it will look like.
 To be able to do a prognosis of the Danish commitments, we looked at how the number of Danish companies joining the initiative has developed over time.
 We used polynomial regression instead of linear regression for this part of the analysis. This choice was made after exploring the actual shape of the data — the number of Danish companies committing to 
