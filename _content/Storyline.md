@@ -137,7 +137,7 @@ Retracting committments is not common and therefore will be bad for business for
 
 Based on data on removed targets it is estimated that about 10% of the targets that were set in 2024 will be removed at some point in the future.
 
-<embed type="text/html" src="../assets/images/scope_trend_plot2.html" style="display: block; margin: auto; width: 100%; max-width: 660px; height: 500px;">
+<embed type="text/html" src="../assets/images/scope_trend_plot.html" style="display: block; margin: auto; width: 100%; max-width: 660px; height: 500px;">
 
 
 To be able to declare the total emissions that the Danish SBTi targets could reduce, there would be a need to go through the companies' annual reports. Luckily, this has already been done in the Danish SBTi progress report for 2023. The report estimates that the sum of baseline years (only counting scope 1&2) for Denmark amount to 9 million tons of CO2eq with an estimated scope 1 & 2 reduction of 5.1 million metric tons of CO2eq by 2030, corresponding to a 57% reduction from baseline year [see report](https://static1.squarespace.com/static/5c8265907d0c91092007f8cf/t/65522a4eaed01f0ac05bd6cd/1699883605436/Rapport+SBTi.pdf). Given that this reduction would be realized, Denmark would exceed the 1,5C requirement of the Paris agreement. Now, if we assume the same average emission reduction of 2030 scope 1&2 targets and forecast based on the 61% increase in those targets in 2024, we can roughly estimate a 8 million metric ton of CO2eq reduction by 2030.
