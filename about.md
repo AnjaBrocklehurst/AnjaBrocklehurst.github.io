@@ -47,7 +47,7 @@ Think of it as the bonus content: more context, side questions, and a few curios
 ![LollipopRetracted.png](../assets/images/AdditionalPlots/LollipopRetracted.png)     
 
   &nbsp;&nbsp;&nbsp;&nbsp;
-<embed type="text/html" src="../assets/images/AdditionalPlots/DK_Pieplots.html" style="display: block; margin: auto; width: 100%; max-width: 1980px; height: 300px;"> 
+<embed type="text/html" src="../assets/images/AdditionalPlots/DK_Pieplots.html" style="display: block; margin: auto; width: 100%; max-width: 1980px; height: 200px;"> 
     
 
 
