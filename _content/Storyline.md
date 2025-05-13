@@ -98,6 +98,8 @@ While European and Global companies rushed to committ their targets in 2017 and 
 # SBTi in Denmark {#chapter-4}
 Danish companies started committing to the SBTi in 2017 with the first company being Carlsberg group which was quickly joined by Rockwool Group, The Velux Group and Vestas Wind Systems.
 
+![key_dashboard_horisontal_denmark.png](../assets/images/key_dashboard_horisontal_denmark.png)
+
 Key statistics dashboard Denmark
 1. Total companies with SBTi targets validated by the SBTi by the end of 2024 DK
 2. Increase in the number of companies with SBTi targets by the end of 2024 compared to 2023 DK
@@ -130,7 +132,7 @@ Clever is a company that specializes in the charging of electrical vehicles in D
 
 
 
-<embed type="text/html" src="../assets/images/scope_trend_plot.html">
+<embed type="text/html" src="../assets/images/scope_trend_plot.html" width="500" height="500">
 
 
 To be able to declare the total emissions that the Danish SBTi targets could reduce, there would be a need to go through the companies' annual reports. Luckily, this has already been done in the Danish SBTi progress report for 2023. The report estimates that the sum of baseline years (only counting scope 1&2) for Denmark amount to 9 million tons of CO2eq with an estimated scope 1 & 2 reduction of 5.1 million metric tons of CO2eq by 2030, corresponding to a 57% reduction from baseline year [see report](https://static1.squarespace.com/static/5c8265907d0c91092007f8cf/t/65522a4eaed01f0ac05bd6cd/1699883605436/Rapport+SBTi.pdf). Given that this reduction would be realized, Denmark would exceed the 1,5C requirement of the Paris agreement. Now, if we assume the same average emission reduction of 2030 scope 1&2 targets and forecast based on the 61% increase in those targets in 2024, we can roughly estimate a 8 million metric ton of CO2eq reduction by 2030.
@@ -151,8 +153,8 @@ There are plenty of players that have been critical toward SBTi and for good rea
 
 # Abbreviations and jargon
 GHG - Greenhouse gases
-Scope 1, 2 & 3 are defined by the GHG protocol, for more information please visit (their website)[https://ghgprotocol.org/]
-Net zero emissions are described in detail by several sources, SBTi being one of them [https://sciencebasedtargets.org/blog/net-zero-jargon-buster-a-guide-to-common-terms]
+Scope 1, 2 & 3 are defined by the GHG protocol, for more information please visit [their website](https://ghgprotocol.org/)<br>
+Net zero emissions are described in detail by several sources, SBTi being one of them [see their website](https://sciencebasedtargets.org/blog/net-zero-jargon-buster-a-guide-to-common-terms)
 
 # References
 1. Bernoville, Tara. 2023. What is the difference between carbon-neutral, net-zero and climate positive?. Plan A. Gathered in April 2025 from: https://plana.earth/academy/what-is-difference-between-carbon-neutral-net-zero-climate-positive
