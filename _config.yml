@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 #cover: "/assets/header_image.jpg"
 #cover: "/assets/Denmark_header_image.jpg"
-cover: "/assets/rapeseed.jpg"
+cover: "/assets/rapeseed.jpeg"
 #logo: "/assets/logo.png"
 
 # Build settings
