@@ -59,27 +59,20 @@ In 2024 the commitments to SBTi grew by 81% in comparison to 2023, 867 of which 
 
 [Expired targets refers to](https://sciencebasedtargets.org/blog/commitment-compliance-policy-what-you-need-to-know) an expired commitment time frame and means that a company needs to commit to new targets. Retracted or withdrawn targets on the other hand refers to a target that either has been withdrawn by the company due to insufficient follow up to their commitments or, simply that the company has decided they will not follow their targets. Currently, 0,32 % of companies have retracted their targets.
 
-Graphs: <br>
 
 ![cumulative_commitments_plot.png](../assets/images/cumulative_commitments_plot.png)
 
- * SBTi cumulative commitments by year <br>
-
 ![validation_distribution_plot.png](../assets/images/validation_distribution_plot.png)
-
- * SBTi Validation Distribution by Company Type <br>
 
 The popularity of SBTi has grown at an astounding rate, from 58 in 2019 to over 10 thousand in 2025. Initially, this growth was solely due to corporations but since 2020 small and medium enterprises (SME) gained ground and became equally engaged in number of commitments. Although financial institutions are not overly represented among the companies in the data their participation is important, and according to SBTi, [the key to unlocking the system-wide change needed to reach a net-zero global economy](https://sciencebasedtargets.org/sectors/financial-institutions). Through financial institution's commitments they will have to reduce the emissions of their portfolios, meaning that their lending, investments and other capital market activities, will be consistent with the Paris agreement.
 
 To be able to be SBTi validated companies must apply, go through a validation process where their GHG accounting is audited, their targets need to be defined, reduction initiatives outlined and aligned with the Paris agreement's goals. The SBTi supports these companies in setting the right targets based on their GHG books and, if deemed reasonable, [approved](https://sbtiservices.com/services/corporates_fi). The process is extensive and time-consuming and therefore validations has a slight delay which gives an insight into its growth in popularity. As mentioned before, the SBTi validated its first company in 2015, and thereafter companies have been fighting to register for their commitments to be validated and publicly available.
 
-Graphs:
 
 ![SBTi_validation_plot.png](../assets/images/SBTi_validation_plot.png)
-* SBTi validation by country and region
 
 ![growth_top_sectors.png](../assets/images/growth_top_sectors.png)
-* Growth of Top 20 sectors over time
+
 
 
 The SBTi is most popular in the European region, followed by Asia and the Americas (North America, Latin America and the Caribbean). The country with the most commitments is Japan with 1408 commitments, which is more than other Asian countries combined. In Europe however, the UK, Germany, Sweden, France and Denmark hold the top 5 seats by number of commitments. When we look at the most commitment happy sectors, the top 5 are Professional services, Construction, Technology, Consumer Product and Manufacturing. These sectors are therefore likely to drive the sustainable change in Europe, influencing neighboring regions and sectors.
@@ -91,15 +84,14 @@ The SBTi is founded, funded and partnered in the right circumstances, offering s
 ## SBTi in Denmark vs Europe vs Global {#chapter-3}
 Having established the regional and country popularity of the SBTi it is clear that Danish companies have contributed to the popularity. However, it is not clear what the relative popularity is in Denmark in comparison to European and Global averages.
 
-Graph:
-* Validation Rate Relative to total companies in each region
+![validation_rate_plot.png](../assets/images/validation_rate_plot.png)
 
 The graph shows the total validated companies in Denmark, Europe and Globally given there are a million companies in Denmark, Europe and Global. The graph shows clearly that SBTi commitments are popular in Denmark relative to both European and Global companies. The amount of companies in Denmark is sourced from [Danmarks Statisktik](https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=48768). The amount of European companies are gathered from three source: 1. [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Business_demography_statistics), 2. [Statista](https://www.statista.com/topics/10032/companies-in-russia/#topicOverview) and 3. [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/statistics/business-population-estimates-2022/business-population-estimates-for-the-uk-and-regions-2022-statistical-release-html). Finally, the data for the amount of companies globally is gathered from [Demandsage](https://www.demandsage.com/business-statistics/).
 
 However, Danish companies had a different growth rate than the european and global trajectory.
 
-Graph:
-* Yearly growth rate of validated companies
+
+![validated_growth_plot.png](../assets/images/validated_growth_plot.png)
 
 While European and Global companies rushed to committ their targets in 2017 and 2019, the danish companies first got real about validating their targets in 2020. This dip in growth rate could maybe be explained by the overload of the SBTi those years (compared to their competences at that time), or that the Danish companies did not jump on the newest trend until the SBTi had shown promise.
 
@@ -116,20 +108,19 @@ Key statistics dashboard Denmark
 
 By 2025, a staggering 257 Danish companies have committed to the SBTi with a 68% increase in 2024 or 104 new commitments.
 
-Graphs:
-* SBTi validation Distribution by company type in Denmark
+![validation_distribution_denmark_plot.png](../assets/images/validation_distribution_denmark_plot.png)
+
 
 The most substantial growth in SBTi commitments in Denmark was made in 2022, with an impressive 400% increase in submissions between years. The growth of commitments that year was mainly due to the contributions of SMEs, who follow a similar trend in Denmark as it does for the total commitments on the SBTi.
 
 To set a target the companies need to define what part of their emissions they are refering to, how much they intend to reduce and by what year. Most companies use the GHG protocol for their corporate emissions accounting which categorises emissions into scopes 1, 2 & 3 which is normally used to define what part of a company's emissions is referd to. The quantity of reduction is set in percentages, based on a baseline year measurement of GHG emissions and tied to a target year, by which time a target should be reached. Near term targets is then a term used for targets set for the near future (typically 2030) and long term for goals (typically 2050). Looking at Danish company targets, it is most common that companies set near term targets amounting to 30 to 60% and long term targets at 85 to 95%.
 
-Graph:
-* Violin plot of committed reduction (Near term vs Long term)
+![Violin_plot.png](../assets/images/Violin_plot.png)
 
 The Danish government has set a target to [reduce their domestic emissions by 70% in 2030 in comparison to 1990 and reach climate neutrality by 2050](https://klimaraadet.dk/en/analysis/denmarks-climate-targets). Both of these targets have been made legally binding. However one might ask, what are the industries & which company types are those who are going to carry this reduction?
 
-Graphs:
-* Growth of Sectors over the years Denmark
+![growth_sectors_plot.png](../assets/images/growth_sectors_plot.png)
+
 
 Looking at the Danish commitments from a sector view, we can see that the construction industry, consumer products, food and beverage and retail sectors are the ones that openly plan to reduce the emissions of Denmark.
 
@@ -137,15 +128,19 @@ According to [the Danish climate program on 2024](https://www.kefm.dk/Media/6386
 
 Clever is a company that specializes in the charging of electrical vehicles in Denmark. On Clever’s [website](https://clever.dk/vaerd-at-vide/clevers-baeredygtighedsarbejde) there is a proud mention of their commitment to the SBTi, which seems odd given that there is no longer a commitment associated with the company’s practices. When Clever was asked about the discrepancy (by the authors of this report), they responded that they had not managed to upload their data before the deadline given by SBTi in resulting in a removed status. Clever simultaneously declares that their ambition for emission reduction are unchanged.
 
-Graphs:
-* Projected scope 1 & 2 reductions from SBTi validated Danish companies
+
+
+<embed type="text/html" src="../assets/images/scope_trend_plot.html">
+
 
 To be able to declare the total emissions that the Danish SBTi targets could reduce, there would be a need to go through the companies' annual reports. Luckily, this has already been done in the Danish SBTi progress report for 2023. The report estimates that the sum of baseline years (only counting scope 1&2) for Denmark amount to 9 million tons of CO2eq with an estimated scope 1 & 2 reduction of 5.1 million metric tons of CO2eq by 2030, corresponding to a 57% reduction from baseline year [see report](https://static1.squarespace.com/static/5c8265907d0c91092007f8cf/t/65522a4eaed01f0ac05bd6cd/1699883605436/Rapport+SBTi.pdf). Given that this reduction would be realized, Denmark would exceed the 1,5C requirement of the Paris agreement. Now, if we assume the same average emission reduction of 2030 scope 1&2 targets and forecast based on the 61% increase in those targets in 2024, we can roughly estimate a 8 million metric ton of CO2eq reduction by 2030.
 
 Putting this into context using the analysis of the [Danish Climate program for 2023](https://klimaraadet.dk/sites/default/files/node/field_files/Denmark%E2%80%99s%202035%20Climate%20Target%20.pdf), 8 million metric tons CO2eq reduction is around 3 million tons short of the projected plan to reach 70% reduction by 2030, and more danish companies comitting to the SBTi every year - and others that are reducing emissions without committing to the SBTi.
 
-Graph:
-* Percentage increase in commitment with 2025 prognosis
+
+![prognosis_plot.png](../assets/images/prognosis_plot.png)
+
+
 
 According to the development of danish commitments, it can be prediced that there will be a general increase in commitments again this year (2025), especially an increase in long term and net zero targets.
 
