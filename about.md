@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Additional data
 permalink: /about/
 main_nav: true
 ---
