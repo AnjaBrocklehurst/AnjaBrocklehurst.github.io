@@ -61,18 +61,24 @@ In 2024 the commitments to SBTi grew by 81% in comparison to 2023, 867 of which 
 
 Graphs: <br>
 <img src="../assets/images/cumulative_commitments_plot.png" alt="cumulative_commitments_plot.png" style="display: block; margin: auto;" width="500">
-<br> * SBTi cumulative commitments by year <br>
+ * SBTi cumulative commitments by year <br>
+
 <img src="../assets/images/validation_distribution_plot.png" alt="validation_distribution_plot.png" style="display: block; margin: auto;" width="520">
 
-<br> * SBTi Validation Distribution by Company Type <br>
+ * SBTi Validation Distribution by Company Type <br>
 
 The popularity of SBTi has grown at an astounding rate, from 58 in 2019 to over 10 thousand in 2025. Initially, this growth was solely due to corporations but since 2020 small and medium enterprises (SME) gained ground and became equally engaged in number of commitments. Although financial institutions are not overly represented among the companies in the data their participation is important, and according to SBTi, [the key to unlocking the system-wide change needed to reach a net-zero global economy](https://sciencebasedtargets.org/sectors/financial-institutions). Through financial institution's commitments they will have to reduce the emissions of their portfolios, meaning that their lending, investments and other capital market activities, will be consistent with the Paris agreement.
 
 To be able to be SBTi validated companies must apply, go through a validation process where their GHG accounting is audited, their targets need to be defined, reduction initiatives outlined and aligned with the Paris agreement's goals. The SBTi supports these companies in setting the right targets based on their GHG books and, if deemed reasonable, [approved](https://sbtiservices.com/services/corporates_fi). The process is extensive and time-consuming and therefore validations has a slight delay which gives an insight into its growth in popularity. As mentioned before, the SBTi validated its first company in 2015, and thereafter companies have been fighting to register for their commitments to be validated and publicly available.
 
 Graphs:
+<img src="../assets/images/SBTi_validation_plot.png" alt="SBTi_validation_plot.png" style="display: block; margin: auto;" width="500">
 * SBTi validation by country and region
+
+<img src="../assets/images/growth_top_sectors.png" alt="growth_top_sectors.png" style="display: block; margin: auto;" width="500">
+
 * Growth of Top 20 sectors over time
+
 
 The SBTi is most popular in the European region, followed by Asia and the Americas (North America, Latin America and the Caribbean). The country with the most commitments is Japan with 1408 commitments, which is more than other Asian countries combined. In Europe however, the UK, Germany, Sweden, France and Denmark hold the top 5 seats by number of commitments. When we look at the most commitment happy sectors, the top 5 are Professional services, Construction, Technology, Consumer Product and Manufacturing. These sectors are therefore likely to drive the sustainable change in Europe, influencing neighboring regions and sectors.
 
