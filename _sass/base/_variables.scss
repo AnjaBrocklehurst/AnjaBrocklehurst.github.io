@@ -1,0 +1,82 @@
+// Google Fonts
+@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,800);
+
+// Typography
+$base-font-family:  "Source Sans Pro", sans-serif; // $helvetica;
+$heading-font-family: "Source Sans Pro", sans-serif; // $base-font-family;
+
+// Font Sizes
+$base-font-size: $em-base; // 16px
+
+// Adjust modular scale ratio
+$modular-scale-ratio: $minor-third;
+
+// Line height
+$base-line-height: 1.8;
+$heading-line-height: 1.8;
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * $em-base;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+
+// Colors
+$dark-gray: #122E8A;
+$medium-gray: #204ECF;
+$light-gray: #ddd;
+$white: #f5f5f5;
+// Flat UI Colors. For more, see http://flatuicolors.com/
+$turquoise: #1abc9c;	// Turqoise
+$green: #27ae60;	  	// Nephritis
+$blue: #2980b9;				// Belize Hole
+$purple: #8e44ad;			// Wisteria
+$orange: #d35400;			// Pumpkin
+$red:	#c0392b;				// Pomegranate
+$gray: #7f8c8d;				// Asbestos
+// Even more colors
+$bc-red: #bc0000;
+// Colors
+$Crab: #F26749;
+$Warm-Blush: #F5B7B1;
+$Vista-Blue: #83A5F2;
+$Deep-Ocean: #204ECF;
+$light-deep-ocean: #5A7EF5;
+$Butterscotch: #EA9836;
+
+// Pastel Extended Palette
+$Lighter-Crab: #F28C70;
+$Darker-Crab: #B23A1D;
+$Lighter-Warm-Blush: #FADBD8;
+$Deeper-Warm-Blush: #E5989B;
+$Lighter-Vista-Blue: #A1B6F5;
+$Midpoint-Blue: #516FD9;
+$Darker-Deep-Ocean: #122E8A;
+$Muted-Vista-Blue: #7C9BF2;
+$Lighter-Green: #A8D5BA; // Replacing Lighter Butterscotch
+$Contrasty-Butterscotch: #9C4700;
+
+// Neutral & Accent Tones
+$Soft-Neutral: #F2E1DC;
+$Warm-Neutral: #F4C2C2;
+$Soft-Cool-Tone: #CBD4F7;
+$Neutral-Blue-Tint: #BFD0E5;
+$Earthy-Warm-Blend: #D47A5F;
+$Punchy-Cool-Accent: #8C9EFF;
+$Pale-Orange-Glow: #F7D59C;
+$Vibrant-Warm: #F7A76C;
+$Bold-Warm-Tone: #D44A1C;
+$Cool-Complement: #8390F2;
+// Font Colors
+$base-background-color: #f5f5f5;
+$base-font-color: #122E8A;
+$action-color: $blue;
+$highlight-color: tint($action-color, 33%);
+
+// Border
+$base-border-color: $light-gray;
+$base-border: 1px solid $base-border-color;
+
+// Forms
+$form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
