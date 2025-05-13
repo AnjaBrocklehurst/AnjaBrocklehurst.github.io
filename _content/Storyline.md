@@ -139,9 +139,6 @@ The SBTi has a strong foundation in Denmark with a projected the rapid growth of
 # SBTi scrutiny - Conclusion {#chapter-5}
 There are plenty of players that have been critical toward SBTi and for good reasons. The so called "science-based" methods of the target setting has been commented on, as well as their reliance on the GHG protocol and lack of resources when it comes to monitoring after companies have set their goals. Additionally, there was a controversy around the organisation when they published that they would be evaluating carbon offsetts as emission reduction in 2024, that was then retracted a few months later. Although, there are many flaws with the Science-Based Target initative, but in the current maturity of the climate industry and compared to the alternative of not having a business centered target commitment strategy, the SBTi has helped companies to structure their environmental committments all around the world.
 
-## Future discussions
-The European Climate law is a legally binding target for Europe's economy and society to become climate-neutral by 2050, with an intermediate target of reducing net greenhouse gas emissions by 55% by 2030 compared to 1990 values.
-
 # Abbreviations and jargon
 GHG - Greenhouse gases
 
