@@ -45,11 +45,9 @@ In the next few chapters this data is analyzed in terms of growth and popularity
 The SBTi started helping companies committing to emissions reduction targets in 2015, starting with a Belgian company called Thalys.
 
 Key statistics dashboard
-![key_dashboard.png](../assets/images/key_dashboard.png)
 ![key_dashboard.png](../assets/images/key_dashboard_horisontal.png)
-| Image 1 | Image 2 |
-|---------|---------|
-| ![Image 1](../assets/images/key_dashboard_1.png) | ![Image 2](../assets/images/key_dashboard_2.png) |
+<img src="../assets/images/key_dashboard_1.png" alt="Image 1" width="300">
+<img src="../assets/images/key_dashboard_2.png" alt="Image 2" width="300">
 1. Total companies with SBTi targets validated by the SBTi by the end of 2024
 2. Increase in the number of companies with SBTi targets by the end of 2024 compared to 2023
 3. Nr of companies set SBTi targets for the first time in 2024
