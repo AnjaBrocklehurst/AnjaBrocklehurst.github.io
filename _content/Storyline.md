@@ -46,7 +46,10 @@ The SBTi started helping companies committing to emissions reduction targets in 
 
 Key statistics dashboard
 ![key_dashboard.png](../assets/images/key_dashboard.png)
-<img src="../assets/images/key_dashboard.png" alt="Statistics dashboard that shows the key info for SBTi dataset like total companies etc." width="500">
+![key_dashboard.png](../assets/images/key_dashboard_horisontal.png)
+| Image 1 | Image 2 |
+|---------|---------|
+| ![Image 1](../assets/images/key_dashboard_1.png) | ![Image 2](../assets/images/key_dashboard_2.png) |
 1. Total companies with SBTi targets validated by the SBTi by the end of 2024
 2. Increase in the number of companies with SBTi targets by the end of 2024 compared to 2023
 3. Nr of companies set SBTi targets for the first time in 2024
