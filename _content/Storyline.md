@@ -60,10 +60,16 @@ In 2024 the commitments to SBTi grew by 81% in comparison to 2023, 867 of which 
 [Expired targets refers to](https://sciencebasedtargets.org/blog/commitment-compliance-policy-what-you-need-to-know) an expired commitment time frame and means that a company needs to commit to new targets. Retracted or withdrawn targets on the other hand refers to a target that either has been withdrawn by the company due to insufficient follow up to their commitments or, simply that the company has decided they will not follow their targets. Currently, 0,32 % of companies have retracted their targets.
 
 Graphs: <br>
+
 <img src="../assets/images/cumulative_commitments_plot.png" alt="cumulative_commitments_plot.png" style="display: block; margin: auto;" width="500">
+
+![cumulative_commitments_plot.png](../assets/images/cumulative_commitments_plot.png)
+
  * SBTi cumulative commitments by year <br>
 
-<img src="../assets/images/validation_distribution_plot.png" alt="validation_distribution_plot.png" style="display: block; margin: auto;" width="520">
+<img src="../assets/images/validation_distribution_plot.png" alt="validation_distribution_plot.png" style="display: block; margin: auto;" width="500">
+
+![validation_distribution_plot.png](../assets/images/validation_distribution_plot.png)
 
  * SBTi Validation Distribution by Company Type <br>
 
@@ -72,11 +78,15 @@ The popularity of SBTi has grown at an astounding rate, from 58 in 2019 to over 
 To be able to be SBTi validated companies must apply, go through a validation process where their GHG accounting is audited, their targets need to be defined, reduction initiatives outlined and aligned with the Paris agreement's goals. The SBTi supports these companies in setting the right targets based on their GHG books and, if deemed reasonable, [approved](https://sbtiservices.com/services/corporates_fi). The process is extensive and time-consuming and therefore validations has a slight delay which gives an insight into its growth in popularity. As mentioned before, the SBTi validated its first company in 2015, and thereafter companies have been fighting to register for their commitments to be validated and publicly available.
 
 Graphs:
+
 <img src="../assets/images/SBTi_validation_plot.png" alt="SBTi_validation_plot.png" style="display: block; margin: auto;" width="500">
+
+![SBTi_validation_plot.png](../assets/images/SBTi_validation_plot.png)
 * SBTi validation by country and region
 
 <img src="../assets/images/growth_top_sectors.png" alt="growth_top_sectors.png" style="display: block; margin: auto;" width="500">
 
+![growth_top_sectors.png](../assets/images/growth_top_sectors.png)
 * Growth of Top 20 sectors over time
 
 
