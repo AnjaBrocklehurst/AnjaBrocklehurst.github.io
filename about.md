@@ -57,7 +57,7 @@ Think of it as the bonus content: more context, side questions, and a few curios
 ![TotalCompprSBTicomp.png](../assets/images/AdditionalPlots/TotalCompprSBTicomp.png)   
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<embed type="text/html" src="../assets/images/AdditionalPlots/SectorComparison.html" style="display: block; margin: auto; width: 100%; max-width: 660px; height: 500px;">
+<embed type="text/html" src="../assets/images/AdditionalPlots/SectorComparison.html" style="display: block; margin: auto; width: 100%; max-width: 1980px; height: 400px;">
 
 
 
