@@ -89,13 +89,19 @@ The sectors that are least engaged with the SBTi are the pharmaceutical sector, 
 The SBTi is founded, funded and partnered in the right circumstances, offering support to businesses that makes business sense - [increasing brand reputation, giving investor confidence, making businesses resilient against regulations, increases innovation toward optimization, driving bottom line savings and giving competitive edge](https://sciencebasedtargets.org/blog/six-business-benefits-of-setting-science-based-targets). Given that this is correct one would assume that retracting targets would decrease brand reputation, reducing investor confidence and reduce competitive edge.
 
 ## SBTi in Denmark vs Europe vs Global {#chapter-3}
-Now the growth of the SBTi has been established and the performance of Danish companies relative to domestic targets, but how does Denmark stand in comparison to other European and Global companies? In this section Denmark is benchmarked compared to other European and Global companies.
+Having established the regional and country popularity of the SBTi it is clear that Danish companies have contributed to the popularity. However, it is not clear what the relative popularity is in Denmark in comparison to European and Global averages.
 
-Graphs:
-* Companies with SBTi validation compared to total nr of companies in Denmark, Europe, Global
-* Characteristics of targets in Denmark, Europe, Global
+Graph:
+* Validation Rate Relative to total companies in each region
 
-...Discussions on the graphs...
+The graph shows the total validated companies in Denmark, Europe and Globally given there are a million companies in Denmark, Europe and Global. The graph shows clearly that SBTi commitments are popular in Denmark relative to both European and Global companies. The amount of companies in Denmark is sourced from [Danmarks Statisktik](https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=48768). The amount of European companies are gathered from three source: 1. [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Business_demography_statistics), 2. [Statista](https://www.statista.com/topics/10032/companies-in-russia/#topicOverview) and 3. [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/statistics/business-population-estimates-2022/business-population-estimates-for-the-uk-and-regions-2022-statistical-release-html). Finally, the data for the amount of companies globally is gathered from [Demandsage](https://www.demandsage.com/business-statistics/).
+
+However, Danish companies had a different growth rate than the european and global trajectory.
+
+Graph:
+* Yearly growth rate of validated companies
+
+While European and Global companies rushed to committ their targets in 2017 and 2019, the danish companies first got real about validating their targets in 2020. This dip in growth rate could maybe be explained by the overload of the SBTi those years (compared to their competences at that time), or that the Danish companies did not jump on the newest trend until the SBTi had shown promise.
 
 # SBTi in Denmark {#chapter-4}
 Danish companies started committing to the SBTi in 2017 with the first company being Carlsberg group which was quickly joined by Rockwool Group, The Velux Group and Vestas Wind Systems.
@@ -150,23 +156,26 @@ There are plenty of players that have been critical toward SBTi and for good rea
 
 # Abbreviations and jargon
 GHG - Greenhouse gases
-
 Scope 1, 2 & 3 are defined by the GHG protocol, for more information please visit (their website)[https://ghgprotocol.org/]
 Net zero emissions are described in detail by several sources, SBTi being one of them [https://sciencebasedtargets.org/blog/net-zero-jargon-buster-a-guide-to-common-terms]
-
 
 # References
 1. Bernoville, Tara. 2023. What is the difference between carbon-neutral, net-zero and climate positive?. Plan A. Gathered in April 2025 from: https://plana.earth/academy/what-is-difference-between-carbon-neutral-net-zero-climate-positive
 2. Clever. 2025. Clevers arbejde med bæredygtighed. Gathered in May 2025 from: https://clever.dk/vaerd-at-vide/clevers-baeredygtighedsarbejde
-3. E. Segel and J. Heer, "Narrative Visualization: Telling Stories with Data," in IEEE Transactions on Visualization and Computer Graphics, vol. 16, no. 6, pp. 1139-1148, Nov.-Dec. 2010, doi: 10.1109/TVCG.2010.179
-4. Galvin, Dexter. 2018. Six business benefits of setting science-based targets. Science based targets initiative. Gathered in April 2025 from: https://sciencebasedtargets.org/blog/six-business-benefits-of-setting-science-based-targets
-5. Greenhouse gas protocol. 2025. Home: We set the standards to measure and manage emissions. Gathered in May 2025 from: https://ghgprotocol.org/
-6. Klima-, Energi- og Forsyningsministeriet. 2024. Klimaprogram 2024. Gathered in April 2025 from: https://www.kefm.dk/Media/638632332369380008/Klimaprogram%202024%20-%20Digital.pdf
-7. Peter Mollgaard, Jette Bredahl Jacobsen, Niels Buus Kristensen, Jorgen Elmeskov, Bente Halkier, Per Heiselberg, Marie Trydeman Knudsen, Poul Erik Morthorst & Katherine Richardson. 2022. Denmark's Climate Targets. Danish Council on Climate Change. Gathered in April 2025 from: https://klimaraadet.dk/sites/default/files/node/field_files/Denmarks%20Climate%20Targets%20-%20English%20policy%20brief.pdf
-8. Røge, L. R., Riis, A. M., Vindbjerg, M. & Christensen J. M. 2023. Commitment to the Science-based Targets Initiative (SBTi) in Denmark: A prograss report in the lead-up to COP28. Gathered in May 2025 from: https://static1.squarespace.com/static/5c8265907d0c91092007f8cf/t/65522a4eaed01f0ac05bd6cd/1699883605436/Rapport+SBTi.pdf
-9. SBTi services. 2025. Target Validation Services. Gathered in April 2025 from: https://sbtiservices.com/services/corporates_fi
-10. Science based targets initiative. 2025. Financial Institutions. Gathered in April 2025 from: https://sciencebasedtargets.org/sectors/financial-institutions
-11. Science based targets initiative. 2025. Home: Ambitious corporate climate action. Gathered in April 2025 from: https://sciencebasedtargets.org/
-12. Science based targets initiative. 2022. Commitment Compliance Policy - what you need to know. Gathered in April 2025 from: https://sciencebasedtargets.org/blog/commitment-compliance-policy-what-you-need-to-know
-13. The Danish Council on Climate Change. 2024. Denmark's 2035 Climate Target: 10 questions and answers regarding a forthcoming 2035 Climate Target. Gathered in May 2025 from: https://klimaraadet.dk/sites/default/files/node/field_files/Denmark%E2%80%99s%202035%20Climate%20Target%20.pdf
+3. Danmarks Statistik. 2022. I 2022 var der 417.000 aktive firmaer. Gathered in May 2025 from: https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=48768
+4. Demandsage. 2024. 106 Business Statistics For 2025 (Updated Data). Gathered in May 2025 from: https://www.demandsage.com/business-statistics/
+5. Department for Business, Energy & Industrial Strategy. 2022. Accredited official statistics: Business population estimates for the UK and regions 2022. Gathered in May 2025 from: https://www.gov.uk/government/statistics/business-population-estimates-2022/business-population-estimates-for-the-uk-and-regions-2022-statistical-release-html
+6. E. Segel and J. Heer, "Narrative Visualization: Telling Stories with Data," in IEEE Transactions on Visualization and Computer Graphics, vol. 16, no. 6, pp. 1139-1148, Nov.-Dec. 2010, doi: 10.1109/TVCG.2010.179
+7. Eurostat. 2023. Statistics Explained: Business Demography statistics. Gathered in May 2025 from: https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Business_demography_statistics
+8. Galvin, Dexter. 2018. Six business benefits of setting science-based targets. Science based targets initiative. Gathered in April 2025 from: https://sciencebasedtargets.org/blog/six-business-benefits-of-setting-science-based-targets
+9. Greenhouse gas protocol. 2025. Home: We set the standards to measure and manage emissions. Gathered in May 2025 from: https://ghgprotocol.org/
+10. Klima-, Energi- og Forsyningsministeriet. 2024. Klimaprogram 2024. Gathered in April 2025 from: https://www.kefm.dk/Media/638632332369380008/Klimaprogram%202024%20-%20Digital.pdf
+11. Peter Mollgaard, Jette Bredahl Jacobsen, Niels Buus Kristensen, Jorgen Elmeskov, Bente Halkier, Per Heiselberg, Marie Trydeman Knudsen, Poul Erik Morthorst & Katherine Richardson. 2022. Denmark's Climate Targets. Danish Council on Climate Change. Gathered in April 2025 from: https://klimaraadet.dk/sites/default/files/node/field_files/Denmarks%20Climate%20Targets%20-%20English%20policy%20brief.pdf
+12. Røge, L. R., Riis, A. M., Vindbjerg, M. & Christensen J. M. 2023. Commitment to the Science-based Targets Initiative (SBTi) in Denmark: A prograss report in the lead-up to COP28. Gathered in May 2025 from: https://static1.squarespace.com/static/5c8265907d0c91092007f8cf/t/65522a4eaed01f0ac05bd6cd/1699883605436/Rapport+SBTi.pdf
+13. SBTi services. 2025. Target Validation Services. Gathered in April 2025 from: https://sbtiservices.com/services/corporates_fi
+14. Science based targets initiative. 2025. Financial Institutions. Gathered in April 2025 from: https://sciencebasedtargets.org/sectors/financial-institutions
+15. Science based targets initiative. 2025. Home: Ambitious corporate climate action. Gathered in April 2025 from: https://sciencebasedtargets.org/
+16. Science based targets initiative. 2022. Commitment Compliance Policy - what you need to know. Gathered in April 2025 from: https://sciencebasedtargets.org/blog/commitment-compliance-policy-what-you-need-to-know
+17. Statista. 2024. Companies in Russia - statistics & facts. Gathered in May 2025 from: https://www.statista.com/topics/10032/companies-in-russia/#topicOverview
+18. The Danish Council on Climate Change. 2024. Denmark's 2035 Climate Target: 10 questions and answers regarding a forthcoming 2035 Climate Target. Gathered in May 2025 from: https://klimaraadet.dk/sites/default/files/node/field_files/Denmark%E2%80%99s%202035%20Climate%20Target%20.pdf
 
