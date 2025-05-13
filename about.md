@@ -16,4 +16,10 @@ Think of it as the bonus content: more context, side questions, and a few curios
 ![TopDkSectors.png](../assets/images/AdditionalPlots/TopDkSectors.png)
 ![HeatmapSectorsDK.png](../assets/images/AdditionalPlots/HeatmapSectorsDK.png)
 ![KDEplot.png](../assets/images/AdditionalPlots/KDEplot.png)
+![RetractedSectors.png](../assets/images/AdditionalPlots/RetractedSectors.png)
+![RetractedPies.png](../assets/images/AdditionalPlots/RetractedPies.png)
+![Hori_lollipop.png](../assets/images/AdditionalPlots/Hori_lollipop.png)
+![LollipopRetracted.png](../assets/images/AdditionalPlots/LollipopRetracted.png)
+
+
 
