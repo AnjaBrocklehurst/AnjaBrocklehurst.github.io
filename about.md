@@ -4,8 +4,8 @@ title: Additional data
 permalink: /about/
 main_nav: true
 ---
+![Logo_figma.png](../assets/images/Logo_figma.png)
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
 Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
