@@ -61,13 +61,9 @@ In 2024 the commitments to SBTi grew by 81% in comparison to 2023, 867 of which 
 
 Graphs: <br>
 
-<img src="../assets/images/cumulative_commitments_plot.png" alt="cumulative_commitments_plot.png" style="display: block; margin: auto;" width="500">
-
 ![cumulative_commitments_plot.png](../assets/images/cumulative_commitments_plot.png)
 
  * SBTi cumulative commitments by year <br>
-
-<img src="../assets/images/validation_distribution_plot.png" alt="validation_distribution_plot.png" style="display: block; margin: auto;" width="500">
 
 ![validation_distribution_plot.png](../assets/images/validation_distribution_plot.png)
 
@@ -79,12 +75,8 @@ To be able to be SBTi validated companies must apply, go through a validation pr
 
 Graphs:
 
-<img src="../assets/images/SBTi_validation_plot.png" alt="SBTi_validation_plot.png" style="display: block; margin: auto;" width="500">
-
 ![SBTi_validation_plot.png](../assets/images/SBTi_validation_plot.png)
 * SBTi validation by country and region
-
-<img src="../assets/images/growth_top_sectors.png" alt="growth_top_sectors.png" style="display: block; margin: auto;" width="500">
 
 ![growth_top_sectors.png](../assets/images/growth_top_sectors.png)
 * Growth of Top 20 sectors over time
